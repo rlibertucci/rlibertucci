@@ -1,5 +1,5 @@
-🌱 Estudante de Engenharia Mecânica, 7º Semestre;
-👀 Interessado em python, html, css, sql.
+* 🌱 Estudante de Engenharia Mecânica, 7º Semestre;
+* 👀 Interessado em python, html, css, sql.
 
 
 <!---
