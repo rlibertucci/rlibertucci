@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @rlibertucci
-- 👀 I’m interested in python, html
-- 🌱 I’m currently learning Mechanical Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+🌱 Estudante de Engenharia Mecânica, 7º Semestre;
+👀 Interessado em python, html, css, sql.
+
 
 <!---
 rlibertucci/rlibertucci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
